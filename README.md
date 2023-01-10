@@ -11,7 +11,7 @@ When user interacts with the button on the page a random password will be genera
 
 **Below is the attached link for the deployed application**
 
-Click [here](https://alecerf01.github.io/Bootstrap-Portfolio/) to go to my page.
+Click [here](https://alecerf01.github.io/Random-Password-Generator/) to go to my page.
 
 ### Mock-Up
 
